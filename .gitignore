@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Declaring functions/Division/out/
+/Topics/Declaring functions/Division/out/production/classes/
+/Topics/Declaring functions/The sum of three numbers/out/
+/Topics/Declaring functions/The sum of three numbers/out/production/classes/
+/Topics/For loop and ranges/The maximum pairwise product/out/
+/Topics/For loop and ranges/The maximum pairwise product/out/production/classes/
+/Topics/For loop and ranges/The product of numbers from a to b/out/
+/Topics/For loop and ranges/The product of numbers from a to b/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/While loops/The first position of the largest element/out/
+/Topics/While loops/The first position of the largest element/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3 .../out/
+/Topics/While loops/The sequence 1 2 2 3 3 3 .../out/production/classes/
+/Topics/While loops/The sum of elements/out/
+/Topics/While loops/The sum of elements/out/production/classes/
